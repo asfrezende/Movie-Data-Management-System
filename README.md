@@ -1,4 +1,5 @@
 **Data structures project: simple movie manegement and search system.**
+**PS: in order to upload this project here on GitHub, I had to use a reduced version of the ratings.csv file. Feel free to reach me out and I can send you the original file.**
 This project was developed as the final assignment for the class INF01124 (taken in 2025/01) and has been slightly modified for publication. The primary objective was to apply concepts of data structures and sorting algorithms to efficiently organize, search and retrieve data.
 
 **The system I conceptualized processess two CSV files provided by the professor:**
@@ -17,3 +18,4 @@ The workflow is at it follows: the movies file is loaded into a temporary matrix
 - User ID: the user's ratings are used on the Hash Table to pull the movies' data;
 - Genre: the Hash Table is traversed to collect all movies of the given genre.
 With this project, I learned the practical application of data structures and could efficiently handle large data sets in search operation, as well as integrate different data structures to create a cohesive system. Feedback and suggestions for improvement are welcome!
+  
