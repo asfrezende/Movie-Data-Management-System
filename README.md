@@ -1,4 +1,4 @@
-**Data structures project: simple movie manegement and search system.**
+# **Data structures project: simple movie manegement and search system.**
 **PS: in order to upload this project here on GitHub, I had to use a reduced version of the ratings.csv file. Feel free to reach me out and I can send you the original file.**
 This project was developed as the final assignment for the class INF01124 (taken in 2025/01) and has been slightly modified for publication. The primary objective was to apply concepts of data structures and sorting algorithms to efficiently organize, search and retrieve data.
 
